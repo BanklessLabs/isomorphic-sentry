@@ -1,6 +1,6 @@
 {
   "name": "@dawsonbotsford/isomorphic-sentry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Isomorphic sentry client for node and react",
   "license": "MIT",
   "repository": "git://github.com/dawsonbotsford/isomorphic-sentry.git",
