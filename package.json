@@ -11,8 +11,8 @@
     "build": "tsc -P tsconfig.json"
   },
   "dependencies": {
-    "@sentry/node": "^6.17.7",
-    "@sentry/react": "^6.17.7"
+    "@sentry/node": "^7.64.0",
+    "@sentry/react": "^7.64.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.17",
